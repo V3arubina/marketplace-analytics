@@ -57,6 +57,7 @@
 ```bash
 git clone <repository_url>
 cd marketplace-analytics
+```
 
 ### 2. Создание и активация виртуального окружения
 
